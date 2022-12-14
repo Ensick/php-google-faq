@@ -99,3 +99,8 @@ main h2{
     font-size: 2rem;
     padding-bottom: 30px;
 }
+
+main div{
+
+    padding-bottom: 40px;
+}
