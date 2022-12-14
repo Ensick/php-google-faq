@@ -90,11 +90,12 @@ main{
 main p{
 
     padding-bottom: 30px;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     line-height: 30px;
 }
 
 main h2{
 
+    font-size: 2rem;
     padding-bottom: 30px;
 }
